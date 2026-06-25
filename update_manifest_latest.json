@@ -1,13 +1,13 @@
 {
-  "latest_version": "0.4.1",
+  "latest_version": "0.4.2",
   "release_date": "2026-06-25",
   "min_supported_windows": "10",
-  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.1/NovacioMedicalExportSetup.exe",
-  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.1/MedicalPatientExport_Portable.zip",
-  "sha256": "998856185c0ddb183ad039ec1c38f72144b8e37f53e26aa481fa2d4eb5ac8300",
+  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.2/NovacioMedicalExportSetup.exe",
+  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.2/MedicalPatientExport_Portable.zip",
+  "sha256": "2892402bb301a594e3f80e54678b7f1dc8144ce88ecbc6acf1836f43609b8c92",
   "required": false,
   "notes": [
-    "განახლების ღილაკის ვიზუალური გაუმჯობესება"
+    "ერთღილაკიანი განახლება და დროებითი საინსტალაციო ფაილების ავტომატური გასუფთავება"
   ],
-  "portable_sha256": "914fe9a082b59a1cc7b68eaf75af5c595bb9cebd69f94120b73847bc2dbbae6a"
+  "portable_sha256": "a4572ad2a6ca3f4e127116fe794ed0080f03c6970e640e3bd2f6c6821793c536"
 }
