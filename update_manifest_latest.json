@@ -4,18 +4,18 @@
   "min_supported_windows": "10",
   "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.7/NovacioMedicalExportSetup.exe",
   "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.7/MedicalPatientExport_Portable.zip",
-  "sha256": "ff0f75a7895e11f6914f85f913fc5d9f8552a59a624533fccf13f623f3b5a637",
-  "installer_sha256": "ff0f75a7895e11f6914f85f913fc5d9f8552a59a624533fccf13f623f3b5a637",
-  "installer_size": 298475430,
+  "sha256": "00d3cfc4f48e1e9d4b409324bcf3db59a79e020bc69740fd00c2192bef0659a9",
+  "installer_sha256": "00d3cfc4f48e1e9d4b409324bcf3db59a79e020bc69740fd00c2192bef0659a9",
+  "installer_size": 298476934,
   "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.7/NovacioMedicalExportSetup.exe",
-  "fallback_installer_sha256": "ff0f75a7895e11f6914f85f913fc5d9f8552a59a624533fccf13f623f3b5a637",
+  "fallback_installer_sha256": "00d3cfc4f48e1e9d4b409324bcf3db59a79e020bc69740fd00c2192bef0659a9",
   "required": false,
   "notes": [
     "ღილაკების ვიზუალური გაუმჯობესება"
   ],
   "update_package_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.7/MedicalPatientExport_Update_v0.4.7.zip",
-  "update_package_sha256": "ce5beb064aaf66ec56ff5a99fb2fe504c15ccbf0d3dd337e3b24bc35638079a0",
-  "update_package_size": 285173867,
+  "update_package_sha256": "d65caba3a9e5c9cd8d2bcb4dfbf0a50af4750f28e6768708ece8e5522e420103",
+  "update_package_size": 285175495,
   "update_type": "patch",
-  "portable_sha256": "874a69591854ee8fc79c94306f5824f4ebd5a2de7bd7c41a11fd6513e4febfb4"
+  "portable_sha256": "a5434deecb3efe22154c4d85a74e9994f74bc7590e3af5494fe4209a3e4f1f37"
 }
