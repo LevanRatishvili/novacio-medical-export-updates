@@ -4,11 +4,11 @@
   "min_supported_windows": "10",
   "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.4/NovacioMedicalExportSetup.exe",
   "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.4/MedicalPatientExport_Portable.zip",
-  "sha256": "108bd57610570624c0b39f63ac66dd28b9eb82bfcac49c29308a679f5c949730",
-  "installer_sha256": "108bd57610570624c0b39f63ac66dd28b9eb82bfcac49c29308a679f5c949730",
-  "installer_size": 306795636,
+  "sha256": "8c17c6884a6e304bd323f52907aa8b28050f745bcd835b5cce5575f0ac42ff97",
+  "installer_sha256": "8c17c6884a6e304bd323f52907aa8b28050f745bcd835b5cce5575f0ac42ff97",
+  "installer_size": 306799499,
   "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.4/NovacioMedicalExportSetup.exe",
-  "fallback_installer_sha256": "108bd57610570624c0b39f63ac66dd28b9eb82bfcac49c29308a679f5c949730",
+  "fallback_installer_sha256": "8c17c6884a6e304bd323f52907aa8b28050f745bcd835b5cce5575f0ac42ff97",
   "required": false,
   "notes": [
     "განახლების სტატუსის, shortcut-ების, პატარა ეკრანისა და დროებითი ფაილების გასწორება"
