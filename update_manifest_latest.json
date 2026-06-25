@@ -1,21 +1,17 @@
 {
-  "latest_version": "0.4.5",
+  "latest_version": "0.4.6",
   "release_date": "2026-06-25",
   "min_supported_windows": "10",
-  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.5/NovacioMedicalExportSetup.exe",
-  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.5/MedicalPatientExport_Portable.zip",
-  "sha256": "98047dcd15de56731bcc697d1145550c802a2d046c3a9b81c56efbf2392858b1",
-  "installer_sha256": "98047dcd15de56731bcc697d1145550c802a2d046c3a9b81c56efbf2392858b1",
-  "installer_size": 297751273,
-  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.5/NovacioMedicalExportSetup.exe",
-  "fallback_installer_sha256": "98047dcd15de56731bcc697d1145550c802a2d046c3a9b81c56efbf2392858b1",
+  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.6/NovacioMedicalExportSetup.exe",
+  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.6/MedicalPatientExport_Portable.zip",
+  "sha256": "94953ebc1951bf9ec3cbc6c0ecad37fb4d81c597a191e03490787b91d57baa84",
+  "installer_sha256": "94953ebc1951bf9ec3cbc6c0ecad37fb4d81c597a191e03490787b91d57baa84",
+  "installer_size": 298474127,
+  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.6/NovacioMedicalExportSetup.exe",
+  "fallback_installer_sha256": "94953ebc1951bf9ec3cbc6c0ecad37fb4d81c597a191e03490787b91d57baa84",
   "required": false,
   "notes": [
-    "სათაურების ფერების ვიზუალური გაუმჯობესება"
+    "განახლების დაყენების ეტაპის გასწორება და შეცდომის მკაფიო ჩვენება"
   ],
-  "update_package_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.5/MedicalPatientExport_Update_v0.4.5.zip",
-  "update_package_sha256": "766fe3f17bb19d9da6443e2a392c44b7df64f57a6ddf00f1e14acde8bc9f7ff8",
-  "update_package_size": 285172253,
-  "update_type": "patch",
-  "portable_sha256": "6ef9c7807df36ea87628351f5e1bcfb36d848d4d4ae3a1a5c7475c2b9a0b8ca5"
+  "portable_sha256": "f358e6747f97855097c224cc6c9f31fe36d2907712ae713639a7e75424ddecce"
 }
