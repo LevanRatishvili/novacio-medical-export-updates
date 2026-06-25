@@ -1,0 +1,14 @@
+{
+  "latest_version": "0.4.0",
+  "release_date": "2026-06-25",
+  "min_supported_windows": "10",
+  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.0/NovacioMedicalExportSetup.exe",
+  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.0/MedicalPatientExport_Portable.zip",
+  "sha256": "10666ea87acdb4cc0b21657ec004d980f1dcd46c881e91443fcbb58a183a2d61",
+  "required": false,
+  "notes": [
+    "კალკულაციის Excel-ის ცხრილის გაუმჯობესება",
+    "აპში განახლების შემოწმების დამატება"
+  ],
+  "portable_sha256": "3cc7a2f393b4750e198716020580a70b64f650db334e3e8e92c532521619257c"
+}
