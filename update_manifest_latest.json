@@ -1,19 +1,21 @@
 {
-  "latest_version": "0.4.4",
+  "latest_version": "0.4.5",
   "release_date": "2026-06-25",
   "min_supported_windows": "10",
-  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.4/NovacioMedicalExportSetup.exe",
-  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.4/MedicalPatientExport_Portable.zip",
-  "sha256": "6641b02f2de5ec894c86fc4a05df1060d0a023f19a406dc145332065dc6ade49",
-  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.4/NovacioMedicalExportSetup.exe",
-  "fallback_installer_sha256": "6641b02f2de5ec894c86fc4a05df1060d0a023f19a406dc145332065dc6ade49",
+  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.5/NovacioMedicalExportSetup.exe",
+  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.5/MedicalPatientExport_Portable.zip",
+  "sha256": "98047dcd15de56731bcc697d1145550c802a2d046c3a9b81c56efbf2392858b1",
+  "installer_sha256": "98047dcd15de56731bcc697d1145550c802a2d046c3a9b81c56efbf2392858b1",
+  "installer_size": 297751273,
+  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.5/NovacioMedicalExportSetup.exe",
+  "fallback_installer_sha256": "98047dcd15de56731bcc697d1145550c802a2d046c3a9b81c56efbf2392858b1",
   "required": false,
   "notes": [
-    "სწრაფი განახლების პაკეტი და ჩამოტვირთვის პროგრესის ჩვენება"
+    "სათაურების ფერების ვიზუალური გაუმჯობესება"
   ],
-  "update_package_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.4/MedicalPatientExport_Update_v0.4.4.zip",
-  "update_package_sha256": "d42be60c52b0984c969d1c00b104bff63a8c1054e2f4d3434ef8ce0d1b14cf35",
-  "update_package_size": 285171748,
+  "update_package_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.4.5/MedicalPatientExport_Update_v0.4.5.zip",
+  "update_package_sha256": "766fe3f17bb19d9da6443e2a392c44b7df64f57a6ddf00f1e14acde8bc9f7ff8",
+  "update_package_size": 285172253,
   "update_type": "patch",
-  "portable_sha256": "48f325b28bfa3d28a73ecd6f51cbda6496c33e9e8b7d37dc5fb5af940101900e"
+  "portable_sha256": "6ef9c7807df36ea87628351f5e1bcfb36d848d4d4ae3a1a5c7475c2b9a0b8ca5"
 }
