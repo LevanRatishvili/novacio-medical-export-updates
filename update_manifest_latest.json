@@ -1,17 +1,17 @@
 {
-  "latest_version": "0.5.8",
-  "release_date": "2026-07-01",
+  "latest_version": "0.5.9",
+  "release_date": "2026-07-02",
   "min_supported_windows": "10",
-  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.8/NovacioMedicalExportSetup.exe",
-  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.8/MedicalPatientExport_Portable.zip",
-  "sha256": "2c2aac1faffdda38b62c613af2135d0663cac6a8971e6af8b30e680bee35323f",
-  "installer_sha256": "2c2aac1faffdda38b62c613af2135d0663cac6a8971e6af8b30e680bee35323f",
-  "installer_size": 306753970,
-  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.8/NovacioMedicalExportSetup.exe",
-  "fallback_installer_sha256": "2c2aac1faffdda38b62c613af2135d0663cac6a8971e6af8b30e680bee35323f",
+  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.9/NovacioMedicalExportSetup.exe",
+  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.9/MedicalPatientExport_Portable.zip",
+  "sha256": "debc024e26d73f1e42aab81d44164b3955b60fd68451ef0989bc31d7d05780c6",
+  "installer_sha256": "debc024e26d73f1e42aab81d44164b3955b60fd68451ef0989bc31d7d05780c6",
+  "installer_size": 309397923,
+  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.9/NovacioMedicalExportSetup.exe",
+  "fallback_installer_sha256": "debc024e26d73f1e42aab81d44164b3955b60fd68451ef0989bc31d7d05780c6",
   "required": false,
   "notes": [
-    "Form 100 სერვისების სრული სიის შენარჩუნება და გამოტოვებული/გაერთიანებული ხაზების გასწორება"
+    "პაციენტის ჩანაწერების Excel ბაზის გაერთიანების ფუნქცია"
   ],
-  "portable_sha256": "6e0b9c43e16fab2b914952163d2fe134f9677efbfa673145231f81731806fa2a"
+  "portable_sha256": "ae2651fe7143ef76b85e900483ee3ae3069acfef4e948bd1dddd4c90251d1e1f"
 }
