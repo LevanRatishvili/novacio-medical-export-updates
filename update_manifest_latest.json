@@ -1,17 +1,17 @@
 {
-  "latest_version": "0.5.15",
-  "release_date": "2026-07-02",
+  "latest_version": "0.5.16",
+  "release_date": "2026-07-03",
   "min_supported_windows": "10",
-  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.15/NovacioMedicalExportSetup.exe",
-  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.15/MedicalPatientExport_Portable.zip",
-  "sha256": "dd17405fb894e4814637b53a43553c6622d890c3959fec249e141e618bbaf02e",
-  "installer_sha256": "dd17405fb894e4814637b53a43553c6622d890c3959fec249e141e618bbaf02e",
-  "installer_size": 309417279,
-  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.15/NovacioMedicalExportSetup.exe",
-  "fallback_installer_sha256": "dd17405fb894e4814637b53a43553c6622d890c3959fec249e141e618bbaf02e",
+  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.16/NovacioMedicalExportSetup.exe",
+  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.16/MedicalPatientExport_Portable.zip",
+  "sha256": "c6b9787eab14fe2b33c0f73c075d8645c9cee430a48627ade062a176facae3bd",
+  "installer_sha256": "c6b9787eab14fe2b33c0f73c075d8645c9cee430a48627ade062a176facae3bd",
+  "installer_size": 309434588,
+  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.16/NovacioMedicalExportSetup.exe",
+  "fallback_installer_sha256": "c6b9787eab14fe2b33c0f73c075d8645c9cee430a48627ade062a176facae3bd",
   "required": false,
   "notes": [
-    "დუბლიკატების ამოცნობის გასწორება ექიმის გათვალისწინებით"
+    "სრული Excel ჟურნალის უნივერსალური გაერთიანების დამატება"
   ],
-  "portable_sha256": "203f6888c52c755172764ea1a72e2a16f1135a2d68085a654dfda60a8b89cdc7"
+  "portable_sha256": "0b265d7f07ff2f629e9ccd10b8012139446a85e53456527a111934b1f2a574d1"
 }
