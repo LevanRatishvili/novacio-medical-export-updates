@@ -1,17 +1,17 @@
 {
-  "latest_version": "0.5.21",
-  "release_date": "2026-07-03",
+  "latest_version": "0.5.22",
+  "release_date": "2026-07-04",
   "min_supported_windows": "10",
-  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.21/NovacioMedicalExportSetup.exe",
-  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.21/MedicalPatientExport_Portable.zip",
-  "sha256": "cf678b4b32a520afe8581c6c75c00541003380b715c8e98a332a0118c564db44",
-  "installer_sha256": "cf678b4b32a520afe8581c6c75c00541003380b715c8e98a332a0118c564db44",
-  "installer_size": 309621994,
-  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.21/NovacioMedicalExportSetup.exe",
-  "fallback_installer_sha256": "cf678b4b32a520afe8581c6c75c00541003380b715c8e98a332a0118c564db44",
+  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.22/NovacioMedicalExportSetup.exe",
+  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.22/MedicalPatientExport_Portable.zip",
+  "sha256": "34078a7b445a9140626b09a058dd313b287ff0539fcdbea41b40340ea0aed071",
+  "installer_sha256": "34078a7b445a9140626b09a058dd313b287ff0539fcdbea41b40340ea0aed071",
+  "installer_size": 309621804,
+  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.22/NovacioMedicalExportSetup.exe",
+  "fallback_installer_sha256": "34078a7b445a9140626b09a058dd313b287ff0539fcdbea41b40340ea0aed071",
   "required": false,
   "notes": [
-    "სრული ჟურნალის მთავარი ცხრილის გასუფთავება და დუბლიკატების აუდიტის გამარტივება"
+    "ჩანაწერების ბაზის ეკრანის გამარტივება და რეჟიმის არჩევის გაუმჯობესება"
   ],
-  "portable_sha256": "bb3da997d9e400a1f056746e5364920684bde445e1c66e6637d4c1208e002830"
+  "portable_sha256": "c7b3bed03d6eef9a67cb1b8482f7ae01a1be162a9fe8b1f3471c860ee4c6e6d0"
 }
