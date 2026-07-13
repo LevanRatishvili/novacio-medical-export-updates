@@ -1,17 +1,17 @@
 {
-  "latest_version": "0.5.24",
-  "release_date": "2026-07-04",
+  "latest_version": "0.5.25",
+  "release_date": "2026-07-13",
   "min_supported_windows": "10",
-  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.24/NovacioMedicalExportSetup.exe",
-  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.24/MedicalPatientExport_Portable.zip",
-  "sha256": "ca4697e2cf72e0d302a92173d953c3c772c6c31f99285a9d03309661285716c2",
-  "installer_sha256": "ca4697e2cf72e0d302a92173d953c3c772c6c31f99285a9d03309661285716c2",
-  "installer_size": 308899050,
-  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.24/NovacioMedicalExportSetup.exe",
-  "fallback_installer_sha256": "ca4697e2cf72e0d302a92173d953c3c772c6c31f99285a9d03309661285716c2",
+  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.25/NovacioMedicalExportSetup.exe",
+  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.25/MedicalPatientExport_Portable.zip",
+  "sha256": "492fb87a75783739dfe8273e3a57b525271041afc6c4e274c9a4a41bc399a34f",
+  "installer_sha256": "492fb87a75783739dfe8273e3a57b525271041afc6c4e274c9a4a41bc399a34f",
+  "installer_size": 308934156,
+  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.25/NovacioMedicalExportSetup.exe",
+  "fallback_installer_sha256": "492fb87a75783739dfe8273e3a57b525271041afc6c4e274c9a4a41bc399a34f",
   "required": false,
   "notes": [
-    "ბაზის შექმნისას თარიღიანი საქაღალდე და ცალკე მხოლოდ ბაზის Excel ფაილი"
+    "სრული ჟურნალის ცარიელი ჩანაწერების, თარიღებისა და დუბლიკატების ამოცნობის გასწორება"
   ],
-  "portable_sha256": "739e3bbebf44c2e218b63a5abcc2cedd2e2d7779bac99172003ec2ec3ba90416"
+  "portable_sha256": "50e3625a2c6293f5f8131cbb4610fd324cc4e57828037aa91eced709d46538ae"
 }
