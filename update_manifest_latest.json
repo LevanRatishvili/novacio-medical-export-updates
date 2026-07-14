@@ -1,17 +1,17 @@
 {
-  "latest_version": "0.5.25",
+  "latest_version": "0.5.26",
   "release_date": "2026-07-14",
   "min_supported_windows": "10",
-  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.25/NovacioMedicalExportSetup.exe",
-  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.25/MedicalPatientExport_Portable.zip",
-  "sha256": "a686a179d496ad135ac97fc84b2c19b563fa4738014a9c00b0e276e19dc9c172",
-  "installer_sha256": "a686a179d496ad135ac97fc84b2c19b563fa4738014a9c00b0e276e19dc9c172",
-  "installer_size": 308934751,
-  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.25/NovacioMedicalExportSetup.exe",
-  "fallback_installer_sha256": "a686a179d496ad135ac97fc84b2c19b563fa4738014a9c00b0e276e19dc9c172",
+  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.26/NovacioMedicalExportSetup.exe",
+  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.26/MedicalPatientExport_Portable.zip",
+  "sha256": "398473f408e393b9b5b869e6fc093892bdf26ce6f9f53672a973b9d6e902c39f",
+  "installer_sha256": "398473f408e393b9b5b869e6fc093892bdf26ce6f9f53672a973b9d6e902c39f",
+  "installer_size": 308935496,
+  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.26/NovacioMedicalExportSetup.exe",
+  "fallback_installer_sha256": "398473f408e393b9b5b869e6fc093892bdf26ce6f9f53672a973b9d6e902c39f",
   "required": false,
   "notes": [
-    "სრული ჟურნალის ცარიელი ჩანაწერების, თარიღებისა და დუბლიკატების ამოცნობის გასწორება"
+    "რეალურ სრულ ჟურნალზე გადამოწმებული თარიღების, დუბლიკატებისა და ცარიელი ჩანაწერების საბოლოო გასწორება"
   ],
-  "portable_sha256": "f87a1de2528d21d11c28f009a930ac0c7d3507495d65c34e15577a2e35ec5aae"
+  "portable_sha256": "9e3a93227433acd4298b8c6be29119136dda06925a8e173a139dc7945b9cecf9"
 }
