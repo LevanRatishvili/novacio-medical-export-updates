@@ -1,17 +1,17 @@
 {
-  "latest_version": "0.5.26",
+  "latest_version": "0.5.27",
   "release_date": "2026-07-14",
   "min_supported_windows": "10",
-  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.26/NovacioMedicalExportSetup.exe",
-  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.26/MedicalPatientExport_Portable.zip",
-  "sha256": "398473f408e393b9b5b869e6fc093892bdf26ce6f9f53672a973b9d6e902c39f",
-  "installer_sha256": "398473f408e393b9b5b869e6fc093892bdf26ce6f9f53672a973b9d6e902c39f",
-  "installer_size": 308935496,
-  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.26/NovacioMedicalExportSetup.exe",
-  "fallback_installer_sha256": "398473f408e393b9b5b869e6fc093892bdf26ce6f9f53672a973b9d6e902c39f",
+  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.27/NovacioMedicalExportSetup.exe",
+  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.27/MedicalPatientExport_Portable.zip",
+  "sha256": "c04848ce76c38da85a3eca2b186244ebf6ba38835ac9a8236adcd93b0b27b2bb",
+  "installer_sha256": "c04848ce76c38da85a3eca2b186244ebf6ba38835ac9a8236adcd93b0b27b2bb",
+  "installer_size": 308949341,
+  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.27/NovacioMedicalExportSetup.exe",
+  "fallback_installer_sha256": "c04848ce76c38da85a3eca2b186244ebf6ba38835ac9a8236adcd93b0b27b2bb",
   "required": false,
   "notes": [
-    "რეალურ სრულ ჟურნალზე გადამოწმებული თარიღების, დუბლიკატებისა და ცარიელი ჩანაწერების საბოლოო გასწორება"
+    "ჩანაწერების შედარებისა და თითოეული დუბლიკატის ინდივიდუალური გადაწყვეტილების გამარტივება"
   ],
-  "portable_sha256": "9e3a93227433acd4298b8c6be29119136dda06925a8e173a139dc7945b9cecf9"
+  "portable_sha256": "24120a6872ab5c4dc773d1107a8a0f7261b60ed714748598250fd0d33fc7e541"
 }
