@@ -1,17 +1,17 @@
 {
-  "latest_version": "0.5.28",
+  "latest_version": "0.5.29",
   "release_date": "2026-07-14",
   "min_supported_windows": "10",
-  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.28/NovacioMedicalExportSetup.exe",
-  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.28/MedicalPatientExport_Portable.zip",
-  "sha256": "076466f7a6e964a23ed480611bfcc0ddab838c07762a595dbc8cf2dfe971ef9e",
-  "installer_sha256": "076466f7a6e964a23ed480611bfcc0ddab838c07762a595dbc8cf2dfe971ef9e",
-  "installer_size": 308628193,
-  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.28/NovacioMedicalExportSetup.exe",
-  "fallback_installer_sha256": "076466f7a6e964a23ed480611bfcc0ddab838c07762a595dbc8cf2dfe971ef9e",
+  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.29/NovacioMedicalExportSetup.exe",
+  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.29/MedicalPatientExport_Portable.zip",
+  "sha256": "db1689c5fec20f34e0a952e9f2f788a0d8c3ad3d1dffccfa45c70cb35ab2ad3f",
+  "installer_sha256": "db1689c5fec20f34e0a952e9f2f788a0d8c3ad3d1dffccfa45c70cb35ab2ad3f",
+  "installer_size": 308680931,
+  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.29/NovacioMedicalExportSetup.exe",
+  "fallback_installer_sha256": "db1689c5fec20f34e0a952e9f2f788a0d8c3ad3d1dffccfa45c70cb35ab2ad3f",
   "required": false,
   "notes": [
-    "Excel ფაილების უსაფრთხო მასობრივი ბეჭდვა და სრული ჟურნალის review ფანჯრის სტაბილურობის გაუმჯობესება"
+    "მასობრივი ბეჭდვის Excel ფაილების გახსნის საიმედოობისა და პატარა ეკრანზე ჩანაწერების შემოწმების ფანჯრის გასწორება"
   ],
-  "portable_sha256": "71567b1f574568b8ae014490855bd1f6d5c0059df8372d6828bac6643cbf1d7e"
+  "portable_sha256": "ebea1d48137633af3fc2c50cc44993c95c0490d167c30f9fe3cc77e31587d8d9"
 }
