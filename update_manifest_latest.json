@@ -1,17 +1,17 @@
 {
-  "latest_version": "0.5.33",
+  "latest_version": "0.5.34",
   "release_date": "2026-07-15",
   "min_supported_windows": "10",
-  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.33/NovacioMedicalExportSetup.exe",
-  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.33/MedicalPatientExport_Portable.zip",
-  "sha256": "c76c61f0828d8bde3eee0e043e01c25906a4e8bd82d88b468942f1f653890909",
-  "installer_sha256": "c76c61f0828d8bde3eee0e043e01c25906a4e8bd82d88b468942f1f653890909",
-  "installer_size": 310323548,
-  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.33/NovacioMedicalExportSetup.exe",
-  "fallback_installer_sha256": "c76c61f0828d8bde3eee0e043e01c25906a4e8bd82d88b468942f1f653890909",
+  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.34/NovacioMedicalExportSetup.exe",
+  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.34/MedicalPatientExport_Portable.zip",
+  "sha256": "4b22cf027061b36ceac1bdb9347a0f8495d88e439814ecb0e6dfe21f38ba73b5",
+  "installer_sha256": "4b22cf027061b36ceac1bdb9347a0f8495d88e439814ecb0e6dfe21f38ba73b5",
+  "installer_size": 310331347,
+  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.34/NovacioMedicalExportSetup.exe",
+  "fallback_installer_sha256": "4b22cf027061b36ceac1bdb9347a0f8495d88e439814ecb0e6dfe21f38ba73b5",
   "required": false,
   "notes": [
-    "SpreadsheetML DateTime-ის რიგობრივი შეჯერება და შერეული თარიღების უსაფრთხო აღდგენა."
+    "სრული ჟურნალის იმპორტში მუდმივი დღე/თვე/წელი წესი, სათაურის პერიოდის შემოწმება და თარიღის ვარაუდების გაუქმება"
   ],
-  "portable_sha256": "5d15adb99d4d89cccac7db8c0d6722dc88ff3d28dcb7cc2c49e1f9884a889502"
+  "portable_sha256": "d03f54c9122fd283a1200975d823fdb440fc7d62dd67800dc49ae7e49391ba8d"
 }
