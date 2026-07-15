@@ -1,17 +1,17 @@
 {
-  "latest_version": "0.5.34",
+  "latest_version": "0.5.35",
   "release_date": "2026-07-15",
   "min_supported_windows": "10",
-  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.34/NovacioMedicalExportSetup.exe",
-  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.34/MedicalPatientExport_Portable.zip",
-  "sha256": "4b22cf027061b36ceac1bdb9347a0f8495d88e439814ecb0e6dfe21f38ba73b5",
-  "installer_sha256": "4b22cf027061b36ceac1bdb9347a0f8495d88e439814ecb0e6dfe21f38ba73b5",
-  "installer_size": 310331347,
-  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.34/NovacioMedicalExportSetup.exe",
-  "fallback_installer_sha256": "4b22cf027061b36ceac1bdb9347a0f8495d88e439814ecb0e6dfe21f38ba73b5",
+  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.35/NovacioMedicalExportSetup.exe",
+  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.35/MedicalPatientExport_Portable.zip",
+  "sha256": "6f0f059bd92cb466d8f6221acd19f7ea371b19b6704d9fc3ca5c674988abf342",
+  "installer_sha256": "6f0f059bd92cb466d8f6221acd19f7ea371b19b6704d9fc3ca5c674988abf342",
+  "installer_size": 310349007,
+  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.35/NovacioMedicalExportSetup.exe",
+  "fallback_installer_sha256": "6f0f059bd92cb466d8f6221acd19f7ea371b19b6704d9fc3ca5c674988abf342",
   "required": false,
   "notes": [
-    "სრული ჟურნალის იმპორტში მუდმივი დღე/თვე/წელი წესი, სათაურის პერიოდის შემოწმება და თარიღის ვარაუდების გაუქმება"
+    "სრული ჟურნალის მკაცრი DMY წესი, A4 გვერდის მაქსიმალური გამოყენება და ოჯახის ექიმის კონსულტაციის 30 ლარის ფასი"
   ],
-  "portable_sha256": "d03f54c9122fd283a1200975d823fdb440fc7d62dd67800dc49ae7e49391ba8d"
+  "portable_sha256": "068f609f5bdbacae1950c8f24e3b68cf91b5d8fcf94e5fd49b58a882d2e5fffd"
 }
