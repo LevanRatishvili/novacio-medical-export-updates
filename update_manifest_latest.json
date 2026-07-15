@@ -1,17 +1,17 @@
 {
-  "latest_version": "0.5.32",
+  "latest_version": "0.5.33",
   "release_date": "2026-07-15",
   "min_supported_windows": "10",
-  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.32/NovacioMedicalExportSetup.exe",
-  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.32/MedicalPatientExport_Portable.zip",
-  "sha256": "2c4b49c62c61f3b3493c831b246b67818db8f42dbacc8132a5a69b50c6a0ed54",
-  "installer_sha256": "2c4b49c62c61f3b3493c831b246b67818db8f42dbacc8132a5a69b50c6a0ed54",
-  "installer_size": 309972824,
-  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.32/NovacioMedicalExportSetup.exe",
-  "fallback_installer_sha256": "2c4b49c62c61f3b3493c831b246b67818db8f42dbacc8132a5a69b50c6a0ed54",
+  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.33/NovacioMedicalExportSetup.exe",
+  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.33/MedicalPatientExport_Portable.zip",
+  "sha256": "c76c61f0828d8bde3eee0e043e01c25906a4e8bd82d88b468942f1f653890909",
+  "installer_sha256": "c76c61f0828d8bde3eee0e043e01c25906a4e8bd82d88b468942f1f653890909",
+  "installer_size": 310323548,
+  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.33/NovacioMedicalExportSetup.exe",
+  "fallback_installer_sha256": "c76c61f0828d8bde3eee0e043e01c25906a4e8bd82d88b468942f1f653890909",
   "required": false,
   "notes": [
-    "სრული ჟურნალის გაერთიანების განმეორებადი review, თარიღების სემანტიკური ამოცნობა და ექიმის შებრუნებული სახელის უსაფრთხო ავტომატური გაერთიანება."
+    "SpreadsheetML DateTime-ის რიგობრივი შეჯერება და შერეული თარიღების უსაფრთხო აღდგენა."
   ],
-  "portable_sha256": "1289f4fbd297b46afb446264d239ad216f047a393c0578ceb2e454f53d6211c5"
+  "portable_sha256": "5d15adb99d4d89cccac7db8c0d6722dc88ff3d28dcb7cc2c49e1f9884a889502"
 }
