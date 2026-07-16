@@ -1,17 +1,18 @@
 {
-  "latest_version": "0.5.35",
-  "release_date": "2026-07-15",
+  "latest_version": "0.5.36",
+  "release_date": "2026-07-16",
   "min_supported_windows": "10",
-  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.35/NovacioMedicalExportSetup.exe",
-  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.35/MedicalPatientExport_Portable.zip",
-  "sha256": "6f0f059bd92cb466d8f6221acd19f7ea371b19b6704d9fc3ca5c674988abf342",
-  "installer_sha256": "6f0f059bd92cb466d8f6221acd19f7ea371b19b6704d9fc3ca5c674988abf342",
-  "installer_size": 310349007,
-  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.35/NovacioMedicalExportSetup.exe",
-  "fallback_installer_sha256": "6f0f059bd92cb466d8f6221acd19f7ea371b19b6704d9fc3ca5c674988abf342",
+  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.36/NovacioMedicalExportSetup.exe",
+  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.36/MedicalPatientExport_Portable.zip",
+  "sha256": "13b6ad1a2331e40465ce60379db97eb16e712416b795bbceed641138f744a5fb",
+  "installer_sha256": "13b6ad1a2331e40465ce60379db97eb16e712416b795bbceed641138f744a5fb",
+  "installer_size": 310357904,
+  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.36/NovacioMedicalExportSetup.exe",
+  "fallback_installer_sha256": "13b6ad1a2331e40465ce60379db97eb16e712416b795bbceed641138f744a5fb",
   "required": false,
   "notes": [
-    "სრული ჟურნალის მკაცრი DMY წესი, A4 გვერდის მაქსიმალური გამოყენება და ოჯახის ექიმის კონსულტაციის 30 ლარის ფასი"
+    "სრული ჟურნალის strict დღე/თვე/წელი იმპორტი და ბეჭდვის გაუმჯობესება",
+    "ოჯახის ექიმის კონსულტაციის ზუსტი ფასი: 30 GEL"
   ],
-  "portable_sha256": "068f609f5bdbacae1950c8f24e3b68cf91b5d8fcf94e5fd49b58a882d2e5fffd"
+  "portable_sha256": "7a8acc8519d8df1ea03f2adf1de6e50211d69c46cba24a3e51e8f1c8726ce61f"
 }
