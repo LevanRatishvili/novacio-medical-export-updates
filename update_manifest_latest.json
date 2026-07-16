@@ -1,17 +1,18 @@
 {
-  "latest_version": "0.5.37",
-  "release_date": "2026-07-16",
+  "latest_version": "0.5.38",
+  "release_date": "2026-07-17",
   "min_supported_windows": "10",
-  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.37/NovacioMedicalExportSetup.exe",
-  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.37/MedicalPatientExport_Portable.zip",
-  "sha256": "ed3932cf7153ae13ab2ad69ea459b9410e8cc281f9f257e1415b701179aa9bf8",
-  "installer_sha256": "ed3932cf7153ae13ab2ad69ea459b9410e8cc281f9f257e1415b701179aa9bf8",
-  "installer_size": 310369319,
-  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.37/NovacioMedicalExportSetup.exe",
-  "fallback_installer_sha256": "ed3932cf7153ae13ab2ad69ea459b9410e8cc281f9f257e1415b701179aa9bf8",
+  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.38/NovacioMedicalExportSetup.exe",
+  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.38/MedicalPatientExport_Portable.zip",
+  "sha256": "8beab0898e2536bd1032c43abfa97d2b57ea7140263b9593c0d3c71ada00a9f7",
+  "installer_sha256": "8beab0898e2536bd1032c43abfa97d2b57ea7140263b9593c0d3c71ada00a9f7",
+  "installer_size": 310380867,
+  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.38/NovacioMedicalExportSetup.exe",
+  "fallback_installer_sha256": "8beab0898e2536bd1032c43abfa97d2b57ea7140263b9593c0d3c71ada00a9f7",
   "required": false,
   "notes": [
-    "სრული ჟურნალის merge-ში native Excel datetime-ის მხარდაჭერა"
+    "ხელით განახლებული Clean ბაზიდან უსაფრთხო incremental import",
+    "ზუსტი გამყოფის გარეშე DMY ფორმის DD.MMYYYY HH:mm მხარდაჭერა"
   ],
-  "portable_sha256": "d22377a8846deb9563d1cfe511e35049a201f822e1468c3780c31cdb3cbc542b"
+  "portable_sha256": "ad67d68f4f698ce0c5240c3b5c91f9ca0fdaee493a5b600def7a31cb42d292e8"
 }
