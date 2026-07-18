@@ -1,18 +1,18 @@
 {
-  "latest_version": "0.5.38",
-  "release_date": "2026-07-17",
+  "latest_version": "0.5.40",
+  "release_date": "2026-07-18",
   "min_supported_windows": "10",
-  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.38/NovacioMedicalExportSetup.exe",
-  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.38/MedicalPatientExport_Portable.zip",
-  "sha256": "8beab0898e2536bd1032c43abfa97d2b57ea7140263b9593c0d3c71ada00a9f7",
-  "installer_sha256": "8beab0898e2536bd1032c43abfa97d2b57ea7140263b9593c0d3c71ada00a9f7",
-  "installer_size": 310380867,
-  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.38/NovacioMedicalExportSetup.exe",
-  "fallback_installer_sha256": "8beab0898e2536bd1032c43abfa97d2b57ea7140263b9593c0d3c71ada00a9f7",
+  "installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.40/NovacioMedicalExportSetup.exe",
+  "portable_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.40/MedicalPatientExport_Portable.zip",
+  "sha256": "04fbfc57e56088b5d68d71e99c9c4c9489b0fe58c03bb1a2d27d64f2d8363e7f",
+  "installer_sha256": "04fbfc57e56088b5d68d71e99c9c4c9489b0fe58c03bb1a2d27d64f2d8363e7f",
+  "installer_size": 310560205,
+  "fallback_installer_url": "https://github.com/LevanRatishvili/novacio-medical-export-updates/releases/download/v0.5.40/NovacioMedicalExportSetup.exe",
+  "fallback_installer_sha256": "04fbfc57e56088b5d68d71e99c9c4c9489b0fe58c03bb1a2d27d64f2d8363e7f",
   "required": false,
   "notes": [
-    "ხელით განახლებული Clean ბაზიდან უსაფრთხო incremental import",
-    "ზუსტი გამყოფის გარეშე DMY ფორმის DD.MMYYYY HH:mm მხარდაჭერა"
+    "ნოზოლოგიური კატეგორიის არეალის ავტომატური გაფართოება და Form 100-ის „სულ“, ხელმოწერისა და დირექტორის სრული ბეჭდვა",
+    "ცალკე „მერიის ფორმა 100“ ღილაკი და მუნიციპალური Excel reference-ის შესაბამისი გენერაცია"
   ],
-  "portable_sha256": "ad67d68f4f698ce0c5240c3b5c91f9ca0fdaee493a5b600def7a31cb42d292e8"
+  "portable_sha256": "51f066ce0becf5ccc1eb80b76cd1f8dc790a3d9867de44ace92f1f28d33204f5"
 }
